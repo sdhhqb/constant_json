@@ -9,3 +9,7 @@
 ### area.json
 
 全国省，市，区三级地区联动选择数据
+
+### population.json
+
+历年出生人口数
